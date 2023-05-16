@@ -1,5 +1,5 @@
 {
-  "name": "eslint-interactive",
+  "name": "single-interactive",
   "description": "The CLI tool to run `eslint --fix` for each rule",
   "version": "10.5.0",
   "repository": "https://github.com/mizdra/eslint-interactive.git",
